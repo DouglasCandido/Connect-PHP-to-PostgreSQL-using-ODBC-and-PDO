@@ -1,5 +1,5 @@
 # Connect-PHP-to-PostgreSQL-using-ODBC-and-PDO-
-Banco de Dados 1 - Tarefa extra 1
+Banco de Dados 1 - Tarefa extra 
 
 * Instruções:
 - É necessário baixar um driver ODBC para PostgreSQL e instalar, recomendo este:
